@@ -22,12 +22,3 @@ Küresel Isınma,Su kirliliği,Yangınlar,Toprak kirliliği
 * Yapay Zekaya gönderen bir kod
 * Küresel Isınmaya,İklim deği
 
-### Değiştirebileceğiniz yerler
-
-### Linkler
-
-
-
-### Kod/Kodlar Nasıl Kullanılır?
-
-

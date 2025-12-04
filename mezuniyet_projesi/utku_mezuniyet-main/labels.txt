@@ -1,0 +1,4 @@
+0 Yangin
+1 ToprakKirliligi
+2 SuKirliligi
+3 Kuresel Isinma

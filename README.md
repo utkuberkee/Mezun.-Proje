@@ -10,7 +10,7 @@
 ### 💻 Kullandığı kod türlerinin amacı:
 
 * İnsanların iklim değişiklikleriyle çözümlerini diğer insanlarla paylaşması ve insanlara iklim değişikliklerini engellemesi için görevler verir
-* Atılan görselin nasıl korunacağını belirler,ne olduğunu söyler
+* Atılan görselin nasıl korunacağını belirler
 
 ### 🤖 Yapay Zekanın kullandığı classlar:
 

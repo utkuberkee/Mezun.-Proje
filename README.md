@@ -14,7 +14,7 @@
 
 ### 🤖 Yapay Zekanın kullandığı classlar:
 
-Küresel Isınma,Su kirliliği,İklim değişikliği,Yangınlar,Toprak kirliliği
+Küresel Isınma,Su kirliliği,Yangınlar,Toprak kirliliği
 
 ### 🌐 Sitenin kulandığı şeyler:
 

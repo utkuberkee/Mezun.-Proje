@@ -1,4 +1,4 @@
-# Mezun.-Proje
+# İklim Değişikliği Engelleme
 
 ## İklim Değişikliği Projesi 🌍
 
